@@ -27,7 +27,7 @@
     }
   },
   "dependencies": {
-    "ip-address": "^5.9.4",
+    "ip-address": "^6.3.0",
     "jsbn": "^0.1.0"
   },
   "devDependencies": {
